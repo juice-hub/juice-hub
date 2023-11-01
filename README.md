@@ -2,7 +2,7 @@
 
 👀 You'll find a few of my projects here.
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning HTML, Java, and Python.
 
 💞️ Open to connect, collaborate and learn.
 
